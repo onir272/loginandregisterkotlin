@@ -1,2 +1,2 @@
-Simple login and register Application
+Simple login and register Application \n
 PHP API = https://github.com/onir272/phploginapi
